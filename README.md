@@ -9,3 +9,5 @@ https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussio
 https://www.kaggle.com/yekenot/pooled-gru-fasttext  
 
 ## fully complication data
+https://www.dropbox.com/preview/kaggle/jigsaw-toxic-input.zip?role=personal
+(this is personal use case.)
